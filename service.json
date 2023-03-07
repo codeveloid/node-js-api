@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kang-koding-kisama",
+  "private_key_id": "d6ecab07da6c5be97f4b022c4c22a484ae6c6eae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD6cbUFy5Foo3X5\nPMrknY6gMtttXD/Y3DG59NOCDGU5q4pdC9QBai1zsHMIxNrHH4SZsv7oNJWcxSPY\nAEq6Q/bBr4U3Zvw0s+o2RITK6t11rikccikysMAE55svoxyKJyA0cOCM8i32iM7M\n24x3oZc6ZXyOcWpvRxJJPTqJbdlPA10YkEuNdU2ZIjeonhT+Tw0jWw8dnVqt8xoK\nZhcoP4Wa+MAloP4RhnzjUl9WddQ8rrj9lqEoVaZPI0lY3S/f0FSIUMwK1ECE4Eki\n97O0GKyFMdu8Wx+/EWJ8VgXnYUpzA+eGBZ92pycSi7WXUK2z+aB/RKlNX0A5Um4L\nwuKTxMQfAgMBAAECggEAVCmyM+hdTVThaIjNhlaMf7mXlADUVARrkZp9Gc8glWjY\nbrxy2qbb72z0u5WsEA6/eQd2MoK5ZJ27lfNDKaV9X0mk8yFg0DVGGEaeebLECbAl\nkLGstqQ/Y2aR+EhQZv0PDZCBZdxdJeSD2sRNSEa9k5pXaWcj5ZF0y7gP2+9Wf/5v\nMsHWI7vWyPb0g1jzIZLSVt2rWuGxSMAwTj/gs1540civplT2wJawHGMGGqZ4bRRF\nH09bFs8UkSF2jV6TUKVvR69AQgV0fNzGmhm5icLWfnEOhcl2k/5szREbKleANeIW\nMEJXubSkJ8FPqV4D90GIJkHvZWw0mjzGtQHf6nk8wQKBgQD+gF14vQnSNEsYEHvu\nR0QD3aI8/7/H7WMvnCH0xdxdLK/DQZ7bYKuZj70bnVfkvd39awZPf9zAV8c5wMbW\nQS3WXWwGpW9kUHTh6LjxnwZLmsaX+imeDajBdCLXHMNqyAqvZq257tGyOjzFQ/4f\nmN9GNCyq8nO5Q8qr/Wye296vawKBgQD76znhWUcAOFMbkadUb7513UtweKhVuQNN\nqywP70ani1+RUDHHrr77p2xR+j/XRt/FexQOok9K80p9VdG3ROQk7l/jyfEy2BD6\nKffbnShSNV+tIQr1Tve7B0tberUvNErREBY/CEtkVbAGzDxckv7VsVufytZlIQiJ\nlzXwoNLvHQKBgDA7G3u6N5ZCmsigtxvdHaKt6gUtYqb88gMfz7+Xj7+IrHaQhQ6G\nL38WonwNQY7z/JH+Kl/+l1NMT1E+m3AXQhyR79sCly2nob7+X65KuOKzHlfG7QQr\nCoQ/AitKJC6kYoIDL4FBJTRlnQa1b/+E9StUz/JFqHC/zDTz/hXNDVKpAoGBAKO4\nXAV4YAxkjp58KqNVfBJdn4mY4M3VT7BKbnhsqR56FcH6vF9p0fT6+grM+HCQPx24\nv3BDTAUJ2H9cJs9UlnDp+qevtnG0ulPaspqnqGzFA0khEF4c1CNYukDZnqbu9TCp\no8uTOGwcxCmm0hPX9IYsnb9bs7pFnabN/uBDpNKBAoGBANeFh/2e9DQEUaORvb8/\nJBlDUWfB19miDNJvLSY+FJfFE2sk95X3jH8q6sBclG5+qB0xEFFame3UrW+WFJ8F\nWggtm2cq7aSoqV+pqKBHRteXxSXw67Y4OGn/xdkxSERxP8R+fmew0fgnZnFmYdlx\nqZfNZFZG2Zz7IZ4JH9yL3TAA\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lbhk4@kang-koding-kisama.iam.gserviceaccount.com",
+  "client_id": "113157054563679364100",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lbhk4%40kang-koding-kisama.iam.gserviceaccount.com"
+}
